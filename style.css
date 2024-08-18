@@ -121,3 +121,8 @@ body {
         transform: translateY(-50px);
     }
 }
+@media screen and (max-width:550px) {
+    .tree img{
+        object-position: left;
+    }
+}
